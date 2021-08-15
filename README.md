@@ -1,5 +1,12 @@
 ### Hi there 👋
 - [思否](https://segmentfault.com/u/djz)
+- 📫 Email me at: 326242499@qq.com
+
+![](https://github-readme-stats.vercel.app/api?username=hugeorange)
+
+------
+
+
 
 <!--
 **hugeorange/hugeorange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
