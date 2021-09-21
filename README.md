@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 📫 Email me at: 326242499@qq.com
-- [思否](https://segmentfault.com/u/djz)
-
+- 🥶 [思否](https://segmentfault.com/u/djz)
+- 📫 326242499@qq.com
 ![](https://github-readme-stats.vercel.app/api?username=hugeorange)
 
 ------
